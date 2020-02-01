@@ -1,6 +1,0 @@
-.DS_Store
-*.tfstate
-.terraform/
-*.backup
-.idea
-*.iml
